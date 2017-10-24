@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_fill_form">FillFormActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get_contact_details">GetContactDetailsActivity</string>
+</resources>
